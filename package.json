@@ -4,7 +4,7 @@
   "description": "A simple solution to displaying and selecting ratings",
   "author": "jackpilowsky",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/jackpilowsky/material-ui-icon-ratings",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
