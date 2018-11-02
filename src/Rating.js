@@ -107,7 +107,6 @@ Rating.propTypes = {
   iconStyles: PropTypes.object,
   max: PropTypes.number, 
   onChange: PropTypes.func,
-  iconColor: PropTypes.string,
   initialValue: PropTypes.number,
   enableToolTip: PropTypes.bool,
   toolTipText: PropTypes.oneOfType([

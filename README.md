@@ -49,7 +49,6 @@ export default class App extends Component {
 |----------------|-------------|------------|--------------------------------
 | readOnly       | Boolean     | false      | Used for display purposes only
 | max            | Number      | 5          | Number of icons to display
-| iconColor      | String      | #E5C100    | The color of the icons
 | iconStyles     | object      | {color: '#E5C100', width: '100%'} | Styles Applied to the icon element
 | initialValue   | Number      | 0          | The rating initialy displayed
 | enableToolTip  | Boolean     | true       | Whether to show a tooltip when the selection is made
