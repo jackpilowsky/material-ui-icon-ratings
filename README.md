@@ -10,6 +10,15 @@
 npm install --save material-ui-icon-ratings
 ```
 
+Make sure you have all the peer dependencies loaded in your project:
+
+1. prop-types: ^15.5.4
+2. react: ^15.0.0 || ^16.0.0
+3. react-dom": ^15.0.0 || ^16.0.0
+4. @material-ui/core": ^1.0.0
+5. @material-ui/icons": ^1.0.0. This is the one people usually forget
+
+
 ## Usage
 
 ```jsx
